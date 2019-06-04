@@ -6,6 +6,6 @@ public class Main {
 
         //SolutionTest1 p = new SolutionTest1();
         Solution51_NQueens p = new Solution51_NQueens();
-        p.solveNQueens(5);
+        p.solveNQueens(3);
     }
 }

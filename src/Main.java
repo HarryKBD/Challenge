@@ -8,7 +8,9 @@ public class Main {
         //Solution52_TotalQueens p = new Solution52_TotalQueens();
 
         Solution54_SpiralMatrix p = new Solution54_SpiralMatrix();
+        Solution160_IntersectionLinkedList p2 = new Solution160_IntersectionLinkedList();
 
+        p2.getIntersectionNodeBest(null, null);
         int matrix[][] = {
                 {1, 2, 3},
                 {4, 5, 6},

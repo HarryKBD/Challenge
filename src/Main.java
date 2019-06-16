@@ -5,7 +5,8 @@ public class Main {
         //System.out.println(p.longestValidParentheses("()(()"));
 
         //SolutionTest1 p = new SolutionTest1();
-        Solution51_NQueens p = new Solution51_NQueens();
-        p.solveNQueens(5);
+        //Solution312_BurstBalloons p = new Solution312_BurstBalloons();
+        Solution_ParensN p = new Solution_ParensN();
+        p.test();
     }
 }

@@ -5,11 +5,9 @@ public class Main {
         //System.out.println(p.longestValidParentheses("()(()"));
 
         //SolutionTest1 p = new SolutionTest1();
-<<<<<<< HEAD
         //Solution312_BurstBalloons p = new Solution312_BurstBalloons();
-        Solution_ParensN p = new Solution_ParensN();
-        p.test();
-=======
+        //Solution_ParensN p = new Solution_ParensN();
+        //p.test();
         //Solution52_TotalQueens p = new Solution52_TotalQueens();
 
         Solution54_SpiralMatrix p = new Solution54_SpiralMatrix();
@@ -22,6 +20,5 @@ public class Main {
                 {7, 8, 9},
         };
         p.spiralOrder(matrix);
->>>>>>> e05e17e92747f5dc033b03de494ba5db50f6cff6
     }
 }
